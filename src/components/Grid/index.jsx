@@ -7,7 +7,7 @@ import Card from './Card'
 const Grid = ({ items }) => {
 	return (
 		<GridWrapper>
-			{items.folder && items.folder.map(item => <Card item={item} key={item.name} />)}
+			{items.folder && items.folder.map((item,i) => <Card item={item} key={item.name+i} />)}
 			{items.file && items.file.map((item,i) => <Card item={item} key={item.name+i} />)}
 		</GridWrapper>
 	)

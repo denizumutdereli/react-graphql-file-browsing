@@ -1,19 +1,9 @@
 import React from 'react'
 import { useQuery } from '@apollo/react-hooks'
-
-// State
 import { Context } from '../../state/context'
-
-// Components
 import TreeView from '../TreeView'
-
-// Styles
 import { FileExplorerWrapper } from './styles'
-
-// Queries
 import { GET_NESTED_FOLDER } from '../../queries'
-
-// Helpers
 import toggleNode from '../../utils/toggleNode'
 
 const FileExplorer = () => {
