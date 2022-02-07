@@ -7,7 +7,7 @@ This is a simple demo purpose client application that can input the directory to
 > npm start
 
 
-* File browsing fixed to max as depth to root foolder.
+* File browsing fixed to max as depth to root folder.
 * Apollo cache fragments are in charge.
 * File previews and mutations are minimized
 * Docker minimum configuration added.
