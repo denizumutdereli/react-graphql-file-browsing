@@ -10,6 +10,7 @@ This is a simple demo purpose client application that can input the directory to
 * File browsing fixed to max as depth to root foolder.
 * Apollo cache fragments are in charge.
 * File previews and mutations are minimized
+* Docker minimum configuration added.
 
 
 ### Screenshots
