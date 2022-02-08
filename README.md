@@ -1,6 +1,6 @@
 # React Graphql File Browsing Client Application
 
-This is a simple demo purpose client application that can input the directory to be read and display the results from one of other <a href="https://github.com/denizumutdereli/node-graphql-typescript-file-browsing">Node Apollo Server with Graphql</a> repo.
+This is a simple demo purpose client application that can input the directory to be read and display the results from one of other <a href="https://github.com/denizumutdereli/node-graphql-typescript-file-browsing">Node Apollo Server with Graphql</a> my repo.
 
 > npm install
 
